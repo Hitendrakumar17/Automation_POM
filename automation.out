@@ -1,0 +1,508 @@
+2018-01-11 10:31:05 INFO  TC001_VerifyLoginWithInvalidCredentials:23 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-11 10:31:06 INFO  HomePage:37 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (4154c3d133816b41c85c6c0c68b8c4df)] -> xpath: //a[@class='login']]
+2018-01-11 10:31:06 INFO  HomePage:39 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (4154c3d133816b41c85c6c0c68b8c4df)] -> id: email]
+2018-01-11 10:31:06 INFO  HomePage:41 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (4154c3d133816b41c85c6c0c68b8c4df)] -> id: passwd]
+2018-01-11 10:31:07 INFO  HomePage:43 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (4154c3d133816b41c85c6c0c68b8c4df)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-11 10:31:07 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - --------------- Finished verifyLoginWithInvalidCredentials -----------------
+2018-01-11 10:33:09 INFO  TC001_VerifyLoginWithInvalidCredentials:23 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-11 10:33:10 INFO  HomePage:37 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (cf642a34a495e6760ee30d073067074b)] -> xpath: //a[@class='login']]
+2018-01-11 10:33:10 INFO  HomePage:39 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (cf642a34a495e6760ee30d073067074b)] -> id: email]
+2018-01-11 10:33:11 INFO  HomePage:41 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (cf642a34a495e6760ee30d073067074b)] -> id: passwd]
+2018-01-11 10:33:11 INFO  HomePage:43 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (cf642a34a495e6760ee30d073067074b)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-11 10:33:11 INFO  HomePage:48 - Error message is - Authentication failed.
+2018-01-11 10:33:11 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - --------------- Finished verifyLoginWithInvalidCredentials -----------------
+2018-01-11 14:51:45 INFO  TC001_VerifyLoginWithInvalidCredentials:23 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-11 14:51:46 INFO  HomePage:37 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (7f0f2cd0fb06ed5878aea4b29d6c2fa3)] -> xpath: //a[@class='login']]
+2018-01-11 14:51:46 INFO  HomePage:39 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (7f0f2cd0fb06ed5878aea4b29d6c2fa3)] -> id: email]
+2018-01-11 14:51:46 INFO  HomePage:41 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (7f0f2cd0fb06ed5878aea4b29d6c2fa3)] -> id: passwd]
+2018-01-11 14:51:47 INFO  HomePage:43 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (7f0f2cd0fb06ed5878aea4b29d6c2fa3)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-11 14:51:47 INFO  HomePage:48 - Error message is - Authentication failed.
+2018-01-11 14:51:47 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - --------------- Finished verifyLoginWithInvalidCredentials -----------------
+2018-01-17 10:09:39 INFO  TC002_VerifyLoginWithValidCredentials:25 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 10:09:40 INFO  HomePage:41 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (5c0f96100ab4282994c7fac51ade9241)] -> xpath: //a[@class='login']]
+2018-01-17 10:09:40 INFO  HomePage:43 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (5c0f96100ab4282994c7fac51ade9241)] -> id: email]
+2018-01-17 10:09:41 INFO  HomePage:45 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (5c0f96100ab4282994c7fac51ade9241)] -> id: passwd]
+2018-01-17 10:10:12 INFO  HomePage:47 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 10:10:12 INFO  HomePage:56 - Sign outSign out
+2018-01-17 10:10:12 INFO  TC002_VerifyLoginWithValidCredentials:30 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 10:44:21 INFO  TC001_VerifyLoginWithInvalidCredentials:23 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-17 10:44:22 INFO  HomePage:41 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (a86fea9a38802a946eba1cc7b4d79a90)] -> xpath: //a[@class='login']]
+2018-01-17 10:44:22 INFO  HomePage:43 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (a86fea9a38802a946eba1cc7b4d79a90)] -> id: email]
+2018-01-17 10:44:22 INFO  HomePage:45 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (a86fea9a38802a946eba1cc7b4d79a90)] -> id: passwd]
+2018-01-17 10:44:23 INFO  HomePage:47 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (a86fea9a38802a946eba1cc7b4d79a90)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-17 10:44:23 INFO  HomePage:52 - Error message is - Authentication failed.
+2018-01-17 10:44:23 INFO  TC001_VerifyLoginWithInvalidCredentials:28 - --------------- Finished verifyLoginWithInvalidCredentials -----------------
+2018-01-17 14:43:15 INFO  TC002_VerifyLoginWithValidCredentials:25 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 14:43:16 INFO  HomePage:41 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (a0ad0d36816182548985d49da81d3c80)] -> xpath: //a[@class='login']]
+2018-01-17 14:43:16 INFO  HomePage:43 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (a0ad0d36816182548985d49da81d3c80)] -> id: email]
+2018-01-17 14:43:16 INFO  HomePage:45 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (a0ad0d36816182548985d49da81d3c80)] -> id: passwd]
+2018-01-17 14:43:48 INFO  HomePage:47 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 14:43:48 INFO  HomePage:56 - Sign outSign out
+2018-01-17 14:43:48 INFO  TC002_VerifyLoginWithValidCredentials:30 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 14:50:08 INFO  TC002_VerifyLoginWithValidCredentials:32 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 14:50:09 INFO  HomePage:41 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (61decc260b956f9c73c055854b33f953)] -> xpath: //a[@class='login']]
+2018-01-17 14:50:10 INFO  HomePage:43 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (61decc260b956f9c73c055854b33f953)] -> id: email]
+2018-01-17 14:50:10 INFO  HomePage:45 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (61decc260b956f9c73c055854b33f953)] -> id: passwd]
+2018-01-17 14:50:41 INFO  HomePage:47 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 14:50:41 INFO  HomePage:56 - Sign outSign out
+2018-01-17 14:50:41 INFO  TC002_VerifyLoginWithValidCredentials:37 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 16:06:54 INFO  TC003_VerifyLoginWithDifferentRecords:34 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 16:06:55 INFO  HomePage:43 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (37e4324e46914d5997e50f2c2ac9f840)] -> xpath: //a[@class='login']]
+2018-01-17 16:06:55 INFO  HomePage:45 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (37e4324e46914d5997e50f2c2ac9f840)] -> id: email]
+2018-01-17 16:06:55 INFO  HomePage:47 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (37e4324e46914d5997e50f2c2ac9f840)] -> id: passwd]
+2018-01-17 16:07:27 INFO  HomePage:49 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 16:07:27 INFO  HomePage:59 - Sign outSign out
+2018-01-17 16:07:27 INFO  TC003_VerifyLoginWithDifferentRecords:39 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 16:11:14 INFO  TC003_VerifyLoginWithDifferentRecords:34 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 16:11:15 INFO  HomePage:43 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (3e9904799249c8781dad9e21e3895a15)] -> xpath: //a[@class='login']]
+2018-01-17 16:11:15 INFO  HomePage:45 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (3e9904799249c8781dad9e21e3895a15)] -> id: email]
+2018-01-17 16:11:15 INFO  HomePage:47 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (3e9904799249c8781dad9e21e3895a15)] -> id: passwd]
+2018-01-17 16:11:46 INFO  HomePage:49 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 16:11:47 INFO  HomePage:59 - Sign outSign out
+2018-01-17 16:11:47 INFO  TC003_VerifyLoginWithDifferentRecords:39 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 17:26:24 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 17:26:25 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (555411d3147b4b0a2d34ab9eeec1105b)] -> xpath: //a[@class='login']]
+2018-01-17 17:26:25 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (555411d3147b4b0a2d34ab9eeec1105b)] -> id: email]
+2018-01-17 17:26:25 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (555411d3147b4b0a2d34ab9eeec1105b)] -> id: passwd]
+2018-01-17 17:26:57 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 17:26:57 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 17:27:27 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 17:27:57 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 17:28:27 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 17:30:54 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 17:30:55 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (71d75dd046940cc8edc34d9fabbde660)] -> xpath: //a[@class='login']]
+2018-01-17 17:30:55 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (71d75dd046940cc8edc34d9fabbde660)] -> id: email]
+2018-01-17 17:30:55 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (71d75dd046940cc8edc34d9fabbde660)] -> id: passwd]
+2018-01-17 17:31:26 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 17:31:26 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 17:31:57 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 17:32:27 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 17:32:57 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 17:38:40 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 17:38:41 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> xpath: //a[@class='login']]
+2018-01-17 17:38:41 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> id: email]
+2018-01-17 17:38:41 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> id: passwd]
+2018-01-17 17:39:12 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 17:39:13 INFO  HomePage:59 - logout is displayed and object is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> xpath: //*[@title='Log me out']]
+2018-01-17 17:39:19 INFO  HomePage:68 - clicked on log out button 
+2018-01-17 17:39:19 INFO  TC003_VerifyLoginWithDifferentRecords:55 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 17:39:19 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 17:39:25 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> xpath: //a[@class='login']]
+2018-01-17 17:39:25 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> id: email]
+2018-01-17 17:39:25 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> id: passwd]
+2018-01-17 17:40:01 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 17:40:01 INFO  HomePage:59 - logout is displayed and object is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> xpath: //*[@title='Log me out']]
+2018-01-17 17:40:02 INFO  HomePage:68 - clicked on log out button 
+2018-01-17 17:40:02 INFO  TC003_VerifyLoginWithDifferentRecords:55 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 17:40:02 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 17:40:03 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> xpath: //a[@class='login']]
+2018-01-17 17:40:03 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> id: email]
+2018-01-17 17:40:04 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> id: passwd]
+2018-01-17 17:40:35 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 17:40:35 INFO  HomePage:59 - logout is displayed and object is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> xpath: //*[@title='Log me out']]
+2018-01-17 17:40:36 INFO  HomePage:68 - clicked on log out button 
+2018-01-17 17:40:36 INFO  TC003_VerifyLoginWithDifferentRecords:55 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 17:40:36 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 17:40:37 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> xpath: //a[@class='login']]
+2018-01-17 17:40:37 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> id: email]
+2018-01-17 17:40:37 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> id: passwd]
+2018-01-17 17:41:08 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 17:41:08 INFO  HomePage:59 - logout is displayed and object is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> xpath: //*[@title='Log me out']]
+2018-01-17 17:41:09 INFO  HomePage:68 - clicked on log out button 
+2018-01-17 17:41:09 INFO  TC003_VerifyLoginWithDifferentRecords:55 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 17:41:10 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 17:41:11 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> xpath: //a[@class='login']]
+2018-01-17 17:41:11 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> id: email]
+2018-01-17 17:41:11 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> id: passwd]
+2018-01-17 17:41:42 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 17:41:42 INFO  HomePage:59 - logout is displayed and object is - [[ChromeDriver: chrome on WIN8_1 (bf48c0d169194a84e4648aeba30e9544)] -> xpath: //*[@title='Log me out']]
+2018-01-17 17:41:43 INFO  HomePage:68 - clicked on log out button 
+2018-01-17 17:41:43 INFO  TC003_VerifyLoginWithDifferentRecords:55 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 20:11:51 INFO  TC001_VerifyLoginWithInvalidCredentials:23 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-17 20:11:52 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (084e84e2b3a7f2d27105f8d45f4ebe07)] -> xpath: //a[@class='login']]
+2018-01-17 20:11:52 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (084e84e2b3a7f2d27105f8d45f4ebe07)] -> id: email]
+2018-01-17 20:11:52 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (084e84e2b3a7f2d27105f8d45f4ebe07)] -> id: passwd]
+2018-01-17 20:11:53 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (084e84e2b3a7f2d27105f8d45f4ebe07)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-17 20:11:53 INFO  HomePage:72 - Error message is - Authentication failed.
+2018-01-17 20:11:53 INFO  TC001_VerifyLoginWithInvalidCredentials:29 - --------------- Finished verifyLoginWithInvalidCredentials -----------------
+2018-01-17 20:15:33 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 20:15:34 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> xpath: //a[@class='login']]
+2018-01-17 20:15:34 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> id: email]
+2018-01-17 20:15:34 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> id: passwd]
+2018-01-17 20:16:06 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 20:16:06 INFO  HomePage:59 - logout is displayed and object is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> xpath: //*[@title='Log me out']]
+2018-01-17 20:16:07 INFO  HomePage:68 - clicked on log out button 
+2018-01-17 20:16:07 INFO  TC003_VerifyLoginWithDifferentRecords:55 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 20:16:07 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 20:16:08 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> xpath: //a[@class='login']]
+2018-01-17 20:16:08 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> id: email]
+2018-01-17 20:16:08 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> id: passwd]
+2018-01-17 20:16:39 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 20:16:39 INFO  HomePage:59 - logout is displayed and object is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> xpath: //*[@title='Log me out']]
+2018-01-17 20:16:40 INFO  HomePage:68 - clicked on log out button 
+2018-01-17 20:16:40 INFO  TC003_VerifyLoginWithDifferentRecords:55 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 20:16:40 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 20:16:41 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> xpath: //a[@class='login']]
+2018-01-17 20:16:41 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> id: email]
+2018-01-17 20:16:41 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> id: passwd]
+2018-01-17 20:17:12 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 20:17:12 INFO  HomePage:59 - logout is displayed and object is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> xpath: //*[@title='Log me out']]
+2018-01-17 20:17:13 INFO  HomePage:68 - clicked on log out button 
+2018-01-17 20:17:13 INFO  TC003_VerifyLoginWithDifferentRecords:55 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 20:17:13 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 20:17:14 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> xpath: //a[@class='login']]
+2018-01-17 20:17:14 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> id: email]
+2018-01-17 20:17:14 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> id: passwd]
+2018-01-17 20:17:45 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 20:17:45 INFO  HomePage:59 - logout is displayed and object is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> xpath: //*[@title='Log me out']]
+2018-01-17 20:17:46 INFO  HomePage:68 - clicked on log out button 
+2018-01-17 20:17:46 INFO  TC003_VerifyLoginWithDifferentRecords:55 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 20:17:46 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 20:17:47 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> xpath: //a[@class='login']]
+2018-01-17 20:17:47 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> id: email]
+2018-01-17 20:17:47 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> id: passwd]
+2018-01-17 20:18:18 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 20:18:18 INFO  HomePage:59 - logout is displayed and object is - [[ChromeDriver: chrome on WIN8_1 (2248906e5c6e1deade56da13f5ab897c)] -> xpath: //*[@title='Log me out']]
+2018-01-17 20:18:19 INFO  HomePage:68 - clicked on log out button 
+2018-01-17 20:18:19 INFO  TC003_VerifyLoginWithDifferentRecords:55 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 20:39:12 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 20:39:14 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> xpath: //a[@class='login']]
+2018-01-17 20:39:14 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> id: email]
+2018-01-17 20:39:14 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> id: passwd]
+2018-01-17 20:39:45 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 20:39:45 INFO  HomePage:59 - logout is displayed and object is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> xpath: //*[@title='Log me out']]
+2018-01-17 20:39:47 INFO  HomePage:68 - clicked on log out button 
+2018-01-17 20:39:47 INFO  TC003_VerifyLoginWithDifferentRecords:57 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 20:39:47 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 20:39:48 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> xpath: //a[@class='login']]
+2018-01-17 20:39:48 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> id: email]
+2018-01-17 20:39:48 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> id: passwd]
+2018-01-17 20:40:19 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 20:40:19 INFO  HomePage:59 - logout is displayed and object is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> xpath: //*[@title='Log me out']]
+2018-01-17 20:40:21 INFO  HomePage:68 - clicked on log out button 
+2018-01-17 20:40:21 INFO  TC003_VerifyLoginWithDifferentRecords:57 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 20:40:21 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 20:40:22 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> xpath: //a[@class='login']]
+2018-01-17 20:40:23 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> id: email]
+2018-01-17 20:40:23 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> id: passwd]
+2018-01-17 20:40:54 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 20:40:54 INFO  HomePage:59 - logout is displayed and object is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> xpath: //*[@title='Log me out']]
+2018-01-17 20:40:56 INFO  HomePage:68 - clicked on log out button 
+2018-01-17 20:40:56 INFO  TC003_VerifyLoginWithDifferentRecords:57 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 20:40:56 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 20:40:58 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> xpath: //a[@class='login']]
+2018-01-17 20:40:58 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> id: email]
+2018-01-17 20:40:58 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> id: passwd]
+2018-01-17 20:41:30 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 20:41:30 INFO  HomePage:59 - logout is displayed and object is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> xpath: //*[@title='Log me out']]
+2018-01-17 20:41:32 INFO  HomePage:68 - clicked on log out button 
+2018-01-17 20:41:32 INFO  TC003_VerifyLoginWithDifferentRecords:57 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-17 20:41:32 INFO  TC003_VerifyLoginWithDifferentRecords:43 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-17 20:41:33 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> xpath: //a[@class='login']]
+2018-01-17 20:41:33 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> id: email]
+2018-01-17 20:41:33 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> id: passwd]
+2018-01-17 20:42:04 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-17 20:42:04 INFO  HomePage:59 - logout is displayed and object is - [[ChromeDriver: chrome on WIN8_1 (217117eb8fa12ced8b7f22fef0193fd5)] -> xpath: //*[@title='Log me out']]
+2018-01-17 20:42:06 INFO  HomePage:68 - clicked on log out button 
+2018-01-17 20:42:06 INFO  TC003_VerifyLoginWithDifferentRecords:57 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-18 08:55:27 INFO  TC001_VerifyLoginWithInvalidCredentials:23 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 08:55:28 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (515d86633f8a4ade08880b5e57b8eb54)] -> xpath: //a[@class='login']]
+2018-01-18 08:55:28 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (515d86633f8a4ade08880b5e57b8eb54)] -> id: email]
+2018-01-18 08:55:28 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (515d86633f8a4ade08880b5e57b8eb54)] -> id: passwd]
+2018-01-18 08:55:29 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (515d86633f8a4ade08880b5e57b8eb54)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 08:55:29 INFO  HomePage:72 - Error message is - Authentication failed.
+2018-01-18 09:04:05 INFO  TC001_VerifyLoginWithInvalidCredentials:23 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 09:04:06 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (f5380edab6c7b1e3c50394a1c5765f96)] -> xpath: //a[@class='login']]
+2018-01-18 09:04:06 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (f5380edab6c7b1e3c50394a1c5765f96)] -> id: email]
+2018-01-18 09:04:06 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (f5380edab6c7b1e3c50394a1c5765f96)] -> id: passwd]
+2018-01-18 09:04:07 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (f5380edab6c7b1e3c50394a1c5765f96)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 09:04:07 INFO  HomePage:72 - Error message is - Authentication failed.
+2018-01-18 09:28:41 INFO  TC001_VerifyLoginWithInvalidCredentials:23 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 09:28:42 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (a2a83431f34fbc4c4dfbf94aa7c913fa)] -> xpath: //a[@class='login']]
+2018-01-18 09:28:43 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (a2a83431f34fbc4c4dfbf94aa7c913fa)] -> id: email]
+2018-01-18 09:28:43 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (a2a83431f34fbc4c4dfbf94aa7c913fa)] -> id: passwd]
+2018-01-18 09:28:43 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (a2a83431f34fbc4c4dfbf94aa7c913fa)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 09:28:43 INFO  HomePage:72 - Error message is - Authentication failed.
+2018-01-18 09:41:17 INFO  TC001_VerifyLoginWithInvalidCredentials:23 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 09:41:18 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (07a1016f0e988812b7b8bbc04ba7ded8)] -> xpath: //a[@class='login']]
+2018-01-18 09:41:18 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (07a1016f0e988812b7b8bbc04ba7ded8)] -> id: email]
+2018-01-18 09:41:18 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (07a1016f0e988812b7b8bbc04ba7ded8)] -> id: passwd]
+2018-01-18 09:41:19 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (07a1016f0e988812b7b8bbc04ba7ded8)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 09:41:19 INFO  HomePage:72 - Error message is - Authentication failed.
+2018-01-18 09:41:19 INFO  TC001_VerifyLoginWithInvalidCredentials:29 - --------------- Finished verifyLoginWithInvalidCredentials -----------------
+2018-01-18 13:21:25 INFO  TestBase:62 - Creating object of Browser - chrome
+2018-01-18 13:21:26 INFO  TestBase:83 - Navigating to - http://automationpractice.com/index.php
+2018-01-18 13:21:38 INFO  TC001_VerifyLoginWithInvalidCredentials:23 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 13:21:38 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 13:21:39 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (d19ae74cfb59375c36af3c1913a69051)] -> xpath: //a[@class='login']]
+2018-01-18 13:21:39 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 13:21:39 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (d19ae74cfb59375c36af3c1913a69051)] -> xpath: //a[@class='login']]
+2018-01-18 13:21:39 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 13:21:40 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 13:21:40 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (d19ae74cfb59375c36af3c1913a69051)] -> id: email]
+2018-01-18 13:21:40 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 13:21:40 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 13:21:40 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (d19ae74cfb59375c36af3c1913a69051)] -> id: passwd]
+2018-01-18 13:21:40 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 13:21:41 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (d19ae74cfb59375c36af3c1913a69051)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 13:21:41 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 13:21:41 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (d19ae74cfb59375c36af3c1913a69051)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 13:21:41 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 13:21:41 INFO  HomePage:72 - Error message is - Authentication failed.
+2018-01-18 13:21:41 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 13:21:41 INFO  TC001_VerifyLoginWithInvalidCredentials:29 - --------------- Finished verifyLoginWithInvalidCredentials -----------------
+2018-01-18 13:21:41 INFO  TC002_VerifyLoginWithValidCredentials:25 - --------------- Staring verifyLoginWithValidCredentials -----------------
+2018-01-18 13:21:41 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 13:21:42 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (43688c8423c9972863d242b4f447ec9f)] -> xpath: //a[@class='login']]
+2018-01-18 13:21:42 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 13:21:42 INFO  HomePage:45 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (43688c8423c9972863d242b4f447ec9f)] -> xpath: //a[@class='login']]
+2018-01-18 13:21:42 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 13:21:42 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 13:21:42 INFO  HomePage:47 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (43688c8423c9972863d242b4f447ec9f)] -> id: email]
+2018-01-18 13:21:42 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 13:21:42 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 13:21:42 INFO  HomePage:49 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (43688c8423c9972863d242b4f447ec9f)] -> id: passwd]
+2018-01-18 13:21:42 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 13:21:43 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (43688c8423c9972863d242b4f447ec9f)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 13:22:14 INFO  WebEventListener:129 - Exception occured: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//button[@id='SubmitLogin']"}
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1),platform=Windows NT 10.0.16299 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 30.29 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.0.1', revision: '1969d75', time: '2016-10-18 09:49:13 -0700'
+System info: host: 'Home_PC', ip: '169.254.5.240', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.34.522940 (1a76f96f66e3ca7b8e57d503b4dd3bccfba87af1), userDataDir=C:\Users\HITEND~1\AppData\Local\Temp\scoped_dir13584_26409}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=63.0.3239.132, platform=WIN8_1, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 43688c8423c9972863d242b4f447ec9f
+*** Element info: {Using=xpath, value=//button[@id='SubmitLogin']}
+2018-01-18 13:22:14 INFO  HomePage:51 - Clicked on LogIn Buton and the boject is - Proxy element for: DefaultElementLocator 'By.xpath: //button[@id='SubmitLogin']'
+2018-01-18 13:22:14 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@title='Log me out']
+2018-01-18 13:22:14 INFO  HomePage:77 - Sign outSign out
+2018-01-18 13:22:14 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@title='Log me out']
+2018-01-18 13:22:14 INFO  TC002_VerifyLoginWithValidCredentials:30 - --------------- Finished verifyLoginWithValidCredentials -----------------
+2018-01-18 14:07:55 INFO  TC001_VerifyLoginWithInvalidCredentials:23 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 14:07:55 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:07:56 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //a[@class='login']]
+2018-01-18 14:07:56 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:07:56 INFO  HomePage:43 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //a[@class='login']]
+2018-01-18 14:07:56 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:07:56 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:07:56 INFO  HomePage:45 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> id: email]
+2018-01-18 14:07:56 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:07:56 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:07:56 INFO  HomePage:47 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> id: passwd]
+2018-01-18 14:07:56 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:07:57 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:07:57 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:07:57 INFO  HomePage:49 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:07:57 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 14:07:57 INFO  HomePage:70 - Error message is - Authentication failed.
+2018-01-18 14:07:57 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 14:07:57 INFO  Retry:37 - Retrying test verifyLoginWithInvalidCredentials with status FAILURE for the 1 time(s).
+2018-01-18 14:07:57 INFO  TC001_VerifyLoginWithInvalidCredentials:23 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 14:07:57 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:07:58 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //a[@class='login']]
+2018-01-18 14:07:58 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:07:58 INFO  HomePage:43 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //a[@class='login']]
+2018-01-18 14:07:58 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:07:58 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:07:58 INFO  HomePage:45 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> id: email]
+2018-01-18 14:07:58 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:07:58 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:07:58 INFO  HomePage:47 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> id: passwd]
+2018-01-18 14:07:58 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:07:58 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:07:58 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:07:58 INFO  HomePage:49 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:07:58 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 14:07:58 INFO  HomePage:70 - Error message is - Authentication failed.
+2018-01-18 14:07:59 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 14:07:59 INFO  Retry:37 - Retrying test verifyLoginWithInvalidCredentials with status FAILURE for the 2 time(s).
+2018-01-18 14:07:59 INFO  TC001_VerifyLoginWithInvalidCredentials:23 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 14:07:59 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:07:59 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //a[@class='login']]
+2018-01-18 14:07:59 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:07:59 INFO  HomePage:43 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //a[@class='login']]
+2018-01-18 14:07:59 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:08:00 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:08:00 INFO  HomePage:45 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> id: email]
+2018-01-18 14:08:00 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:08:00 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:08:00 INFO  HomePage:47 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> id: passwd]
+2018-01-18 14:08:00 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:08:00 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:08:00 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:08:00 INFO  HomePage:49 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:08:00 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 14:08:00 INFO  HomePage:70 - Error message is - Authentication failed.
+2018-01-18 14:08:00 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 14:08:00 INFO  Retry:37 - Retrying test verifyLoginWithInvalidCredentials with status FAILURE for the 3 time(s).
+2018-01-18 14:08:00 INFO  TC001_VerifyLoginWithInvalidCredentials:23 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 14:08:00 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:08:01 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //a[@class='login']]
+2018-01-18 14:08:01 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:08:01 INFO  HomePage:43 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //a[@class='login']]
+2018-01-18 14:08:01 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:08:01 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:08:01 INFO  HomePage:45 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> id: email]
+2018-01-18 14:08:01 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:08:01 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:08:01 INFO  HomePage:47 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> id: passwd]
+2018-01-18 14:08:01 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:08:02 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:08:02 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:08:02 INFO  HomePage:49 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (579517fd3b78e42aa78d19b697887feb)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:08:02 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 14:08:02 INFO  HomePage:70 - Error message is - Authentication failed.
+2018-01-18 14:08:02 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 14:34:43 INFO  TC001_VerifyLoginWithInvalidCredentials:25 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 14:34:43 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:34:44 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //a[@class='login']]
+2018-01-18 14:34:44 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:34:44 INFO  HomePage:43 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //a[@class='login']]
+2018-01-18 14:34:44 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:34:45 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:34:45 INFO  HomePage:45 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> id: email]
+2018-01-18 14:34:45 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:34:45 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:34:45 INFO  HomePage:47 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> id: passwd]
+2018-01-18 14:34:45 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:34:45 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:34:45 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:34:45 INFO  HomePage:49 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:34:45 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 14:34:45 INFO  HomePage:70 - Error message is - Authentication failed.
+2018-01-18 14:34:45 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 14:34:45 INFO  Retry:37 - Retrying test verifyLoginWithInvalidCredentials with status FAILURE for the 1 time(s).
+2018-01-18 14:34:45 INFO  TC001_VerifyLoginWithInvalidCredentials:25 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 14:34:45 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:34:46 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //a[@class='login']]
+2018-01-18 14:34:46 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:34:46 INFO  HomePage:43 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //a[@class='login']]
+2018-01-18 14:34:46 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:34:46 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:34:46 INFO  HomePage:45 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> id: email]
+2018-01-18 14:34:46 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:34:46 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:34:46 INFO  HomePage:47 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> id: passwd]
+2018-01-18 14:34:46 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:34:47 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:34:47 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:34:47 INFO  HomePage:49 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:34:47 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 14:34:47 INFO  HomePage:70 - Error message is - Authentication failed.
+2018-01-18 14:34:47 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 14:34:47 INFO  Retry:37 - Retrying test verifyLoginWithInvalidCredentials with status FAILURE for the 2 time(s).
+2018-01-18 14:34:47 INFO  TC001_VerifyLoginWithInvalidCredentials:25 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 14:34:47 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:34:48 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //a[@class='login']]
+2018-01-18 14:34:48 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:34:48 INFO  HomePage:43 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //a[@class='login']]
+2018-01-18 14:34:48 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:34:48 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:34:48 INFO  HomePage:45 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> id: email]
+2018-01-18 14:34:48 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:34:48 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:34:48 INFO  HomePage:47 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> id: passwd]
+2018-01-18 14:34:48 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:34:49 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:34:49 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:34:49 INFO  HomePage:49 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:34:49 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 14:34:49 INFO  HomePage:70 - Error message is - Authentication failed.
+2018-01-18 14:34:49 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 14:34:49 INFO  Retry:37 - Retrying test verifyLoginWithInvalidCredentials with status FAILURE for the 3 time(s).
+2018-01-18 14:34:49 INFO  TC001_VerifyLoginWithInvalidCredentials:25 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 14:34:49 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:34:49 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //a[@class='login']]
+2018-01-18 14:34:49 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 14:34:49 INFO  HomePage:43 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //a[@class='login']]
+2018-01-18 14:34:49 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:34:49 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 14:34:49 INFO  HomePage:45 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> id: email]
+2018-01-18 14:34:49 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:34:50 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 14:34:50 INFO  HomePage:47 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> id: passwd]
+2018-01-18 14:34:50 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:34:50 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:34:50 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 14:34:50 INFO  HomePage:49 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (3ee7f0fc1f8c38bf4bff3ea6fd66f7de)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 14:34:50 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 14:34:50 INFO  HomePage:70 - Error message is - Authentication failed.
+2018-01-18 14:34:50 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 15:13:56 INFO  TC001_VerifyLoginWithInvalidCredentials:25 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 15:13:56 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 15:13:57 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //a[@class='login']]
+2018-01-18 15:13:57 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 15:13:57 INFO  HomePage:43 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //a[@class='login']]
+2018-01-18 15:13:57 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 15:13:57 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 15:13:57 INFO  HomePage:45 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> id: email]
+2018-01-18 15:13:57 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 15:13:57 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 15:13:57 INFO  HomePage:47 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> id: passwd]
+2018-01-18 15:13:57 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 15:13:58 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 15:13:58 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 15:13:58 INFO  HomePage:49 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 15:13:58 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 15:13:58 INFO  HomePage:70 - Error message is - Authentication failed.
+2018-01-18 15:13:58 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 15:13:58 INFO  Retry:37 - Retrying test verifyLoginWithInvalidCredentials with status FAILURE for the 1 time(s).
+2018-01-18 15:13:58 INFO  TC001_VerifyLoginWithInvalidCredentials:25 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 15:13:58 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 15:13:59 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //a[@class='login']]
+2018-01-18 15:13:59 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 15:13:59 INFO  HomePage:43 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //a[@class='login']]
+2018-01-18 15:13:59 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 15:13:59 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 15:13:59 INFO  HomePage:45 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> id: email]
+2018-01-18 15:13:59 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 15:13:59 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 15:13:59 INFO  HomePage:47 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> id: passwd]
+2018-01-18 15:13:59 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 15:14:00 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 15:14:00 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 15:14:00 INFO  HomePage:49 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 15:14:00 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 15:14:00 INFO  HomePage:70 - Error message is - Authentication failed.
+2018-01-18 15:14:00 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 15:14:00 INFO  Retry:37 - Retrying test verifyLoginWithInvalidCredentials with status FAILURE for the 2 time(s).
+2018-01-18 15:14:00 INFO  TC001_VerifyLoginWithInvalidCredentials:25 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 15:14:00 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 15:14:00 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //a[@class='login']]
+2018-01-18 15:14:00 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 15:14:00 INFO  HomePage:43 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //a[@class='login']]
+2018-01-18 15:14:00 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 15:14:01 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 15:14:01 INFO  HomePage:45 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> id: email]
+2018-01-18 15:14:01 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 15:14:01 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 15:14:01 INFO  HomePage:47 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> id: passwd]
+2018-01-18 15:14:01 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 15:14:01 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 15:14:01 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 15:14:01 INFO  HomePage:49 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 15:14:01 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 15:14:01 INFO  HomePage:70 - Error message is - Authentication failed.
+2018-01-18 15:14:01 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 15:14:01 INFO  Retry:37 - Retrying test verifyLoginWithInvalidCredentials with status FAILURE for the 3 time(s).
+2018-01-18 15:14:01 INFO  TC001_VerifyLoginWithInvalidCredentials:25 - --------------- Staring verifyLoginWithInvalidCredentials -----------------
+2018-01-18 15:14:01 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 15:14:02 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //a[@class='login']]
+2018-01-18 15:14:02 INFO  WebEventListener:129 - Found Element By : By.xpath: //a[@class='login']
+2018-01-18 15:14:02 INFO  HomePage:43 - Clicked on SignIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //a[@class='login']]
+2018-01-18 15:14:02 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 15:14:02 INFO  WebEventListener:129 - Found Element By : By.id: email
+2018-01-18 15:14:02 INFO  HomePage:45 - Entered the email id and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> id: email]
+2018-01-18 15:14:02 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 15:14:02 INFO  WebEventListener:129 - Found Element By : By.id: passwd
+2018-01-18 15:14:02 INFO  HomePage:47 - Entered the password and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> id: passwd]
+2018-01-18 15:14:02 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 15:14:03 INFO  WebEventListener:129 - Clicked on: [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 15:14:03 INFO  WebEventListener:129 - Found Element By : By.xpath: //button[@id='SubmitLogin']
+2018-01-18 15:14:03 INFO  HomePage:49 - Clicked on LogIn Buton and the boject is - [[ChromeDriver: chrome on WIN8_1 (0d43bab6cffbe72ac23caa232b113d43)] -> xpath: //button[@id='SubmitLogin']]
+2018-01-18 15:14:03 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 15:14:03 INFO  HomePage:70 - Error message is - Authentication failed.
+2018-01-18 15:14:03 INFO  WebEventListener:129 - Found Element By : By.xpath: //*[@id='center_column']/div[1]/ol/li
+2018-01-18 15:14:03 INFO  TestBase:212 - browser closed

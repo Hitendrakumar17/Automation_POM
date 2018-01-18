@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Regression Suite]" parallel="classes">
+  <listeners>
+    <listener class-name="com.test.automation.uiAutomation.customListener.RetryListener"/>
+  </listeners>
+  <test name="HomePageTest(failed)" parallel="classes">
+    <classes>
+      <class name="com.test.automation.uiAutomation.homepage.TC001_VerifyLoginWithInvalidCredentials">
+        <methods>
+          <include name="SetUP"/>
+          <include name="beforeMethod"/>
+          <include name="verifyLoginWithInvalidCredentials"/>
+          <include name="endTest"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- com.test.automation.uiAutomation.homepage.TC001_VerifyLoginWithInvalidCredentials -->
+    </classes>
+  </test> <!-- HomePageTest(failed) -->
+</suite> <!-- Failed suite [Regression Suite] -->
